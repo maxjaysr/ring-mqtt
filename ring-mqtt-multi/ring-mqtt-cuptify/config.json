@@ -1,0 +1,9 @@
+{
+  "host": "core-mosquitto",
+  "port": 1883,
+  "mqtt_user": "homeassistant",
+  "mqtt_pass": "Tiff2003",
+  "location_ids": ["96ac5632-0899-4fe5-a294-fe81bacb1268"],
+  "enable_cameras": false,
+  "enable_snapshots": false
+}
